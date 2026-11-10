@@ -48,7 +48,7 @@ An interactive Power BI dashboard project focused on analyzing Supermart Grocery
 
 \## Dashboard Screenshots
 
-\[View Dashboard Screenshots on Google Drive](https://drive.google.com/drive/folders/1QuFW2kYgRjsZme49nVbKB0LNMdvJ02\_6?usp=sharing)
+\https://drive.google.com/drive/folders/1QuFW2kYgRjsZme49nVbKB0LNMdvJ02_6
 
 
 
